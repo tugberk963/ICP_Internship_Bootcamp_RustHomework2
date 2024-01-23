@@ -1,6 +1,8 @@
 # ICP_Internship_Bootcamp_RustHomework2
 ICP Internship Bootcamp Rust Homework2
 
+![](https://github.com/tugberk963/ICP_Internship_Bootcamp_Rust_Homework2/blob/main/icp_homework2.gif)
+
 Task Details
 
 In this homework, you will create a word counter program in Rust.
